@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1496755506 source:c:\users\sully mancia\documents\clases\analisisdealgoritmos\segundoparcial\tarea5_algoritmos_kruskal\edge.cpp
+	"Edge.h"
+
+1496755506 c:\users\sully mancia\documents\clases\analisisdealgoritmos\segundoparcial\tarea5_algoritmos_kruskal\edge.h
+
+1496755506 source:c:\users\sully mancia\documents\clases\analisisdealgoritmos\segundoparcial\tarea5_algoritmos_kruskal\test.cpp
+	"Test.h"
+
+1496755506 c:\users\sully mancia\documents\clases\analisisdealgoritmos\segundoparcial\tarea5_algoritmos_kruskal\test.h
+	<iostream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<map>
+	<queue>
+	<list>
+	"Edge.h"
+
